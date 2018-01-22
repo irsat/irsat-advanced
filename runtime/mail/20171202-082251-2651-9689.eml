@@ -1,0 +1,56 @@
+Message-ID: <fc3e598a0dbaa6eb75132418bc1a5c2e@localhost>
+Date: Sat, 02 Dec 2017 08:22:51 +0100
+Subject: Password reset for My Application
+From: My Application robot <support@example.com>
+To: anggramar95@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1512199371_e231e1d4610febfd01a0511d81f73249_=_"
+
+
+--_=_swift_1512199371_e231e1d4610febfd01a0511d81f73249_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello dewianggraeni,
+
+Follow the link below to reset your password:=
+
+
+http://localhost/dewi-advanced/frontend/web/index.php?r=3Dsite%2Frese=
+t-password&token=3DAiDa9s4gcTpjoZpyfGmeh5msn5MhJVlf_1512199371
+
+--_=_swift_1512199371_e231e1d4610febfd01a0511d81f73249_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello dewianggraeni,</p>
+
+ =
+   <p>Follow the link below to reset your password:</p>
+
+    <p><a href=
+=3D"http://localhost/dewi-advanced/frontend/web/index.php?r=3Dsite%2Freset-=
+password&amp;token=3DAiDa9s4gcTpjoZpyfGmeh5msn5MhJVlf_1512199371">http://lo=
+calhost/dewi-advanced/frontend/web/index.php?r=3Dsite%2Freset-password&amp;=
+token=3DAiDa9s4gcTpjoZpyfGmeh5msn5MhJVlf_1512199371</a></p>
+</div>
+    =
+</body>
+</html>
+
+
+--_=_swift_1512199371_e231e1d4610febfd01a0511d81f73249_=_--
